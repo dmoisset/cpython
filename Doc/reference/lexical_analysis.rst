@@ -352,6 +352,8 @@ exactly as written here:
    async      elif       if         or         yield
 
 
+.. _soft-keywords:
+
 Soft Keywords
 -------------
 
